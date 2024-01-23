@@ -1,0 +1,5 @@
+mkdir -> cria pasta no prompt
+code . -> abre o visual code
+div.siderbar -> ja cria a div com essa classe
+tag nav -> usada para fazer menus
+ul>li*2 -> ja cria a lista com 2 linhas
