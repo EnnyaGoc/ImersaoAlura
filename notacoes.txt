@@ -3,3 +3,11 @@ code . -> abre o visual code
 div.siderbar -> ja cria a div com essa classe
 tag nav -> usada para fazer menus
 ul>li*2 -> ja cria a lista com 2 linhas
+    top: 0;
+    left: 0; ---> trabalhar sempre com o position fixed, absolut e relative
+
+.logo img{ -> estilizar a img q ta dentro do logo
+
+bom da reset no css, por meio de um link, pq tem o estilo padrao -> BOA PRATICA
+    
+text-decoration: none; -> tira a bolinha da lista
