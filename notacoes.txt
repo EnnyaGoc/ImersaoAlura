@@ -11,3 +11,8 @@ ul>li*2 -> ja cria a lista com 2 linhas
 bom da reset no css, por meio de um link, pq tem o estilo padrao -> BOA PRATICA
     
 text-decoration: none; -> tira a bolinha da lista
+
+gap -> indica o tamanho do espaço do space-between
+
+hover -> é um estado
+border -> junta 3 props em uma só
